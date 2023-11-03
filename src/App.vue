@@ -26,5 +26,6 @@ export default {
 <style scoped>
 .messaggio {
   color: red;
+  text-align: center;
 }
 </style>
