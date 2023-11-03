@@ -12,7 +12,9 @@ export default {
 </script>
 
 <template>
-  <p>{{ addComponent }}</p> 
+  <div>
+        <img src="../assets/zelda.jpg" >
+  </div>
   
 </template>
 
